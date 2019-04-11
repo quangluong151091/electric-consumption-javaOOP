@@ -1,1 +1,1 @@
-# electric-consumption-javaOOP
+# Electric Consumption application by Java OOP
